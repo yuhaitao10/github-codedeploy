@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sleep 90
+sleep 45
 
