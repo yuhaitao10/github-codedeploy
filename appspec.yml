@@ -1,6 +1,7 @@
 version: 0.0
 os: linux
 
+
 files:
   - source: files/index.html
     destination: /var/www/html
