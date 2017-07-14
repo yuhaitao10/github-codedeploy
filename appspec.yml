@@ -20,4 +20,6 @@ hooks:
     - location: scripts/delete-old-index.sh
   AfterInstall:
     - location: scripts/sleep.sh
+      timeout: 60
     - location: scripts/webserver-start.sh
+
