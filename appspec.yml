@@ -22,4 +22,3 @@ hooks:
     - location: scripts/sleep.sh
       timeout: 60
     - location: scripts/webserver-start.sh
-
