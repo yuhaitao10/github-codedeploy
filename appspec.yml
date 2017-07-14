@@ -13,7 +13,6 @@ permissions:
     mode: 644
     type:
       - file
-
 hooks:
   BeforeInstall:
     - location: scripts/deregister_from_elb.sh
